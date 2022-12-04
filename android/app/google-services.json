@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "720904753026",
+    "project_id": "crashlytics-demo-fd099",
+    "storage_bucket": "crashlytics-demo-fd099.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720904753026:android:6a89c43caa7c42ae4f499b",
+        "android_client_info": {
+          "package_name": "com.example.sentry_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720904753026-t8isvuq9uf1ftqll6sfhcme6u9tr57ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApEQ_uLz3maWfwCDka0idAQYhmJ-OXI5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720904753026-t8isvuq9uf1ftqll6sfhcme6u9tr57ng.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "720904753026-0car3tgg1i32hvvo6u9rf81qdps34kqs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sentryDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

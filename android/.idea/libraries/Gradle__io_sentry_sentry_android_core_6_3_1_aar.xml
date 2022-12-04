@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: io.sentry:sentry-android-core:6.3.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8a94798ca067bcc766c55e1c752d31db/transformed/jetified-sentry-android-core-6.3.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8a94798ca067bcc766c55e1c752d31db/transformed/jetified-sentry-android-core-6.3.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8a94798ca067bcc766c55e1c752d31db/transformed/jetified-sentry-android-core-6.3.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.sentry/sentry-android-core/6.3.1/4f6a510fe40e7f196aa6032b0eac3793fbaf2166/sentry-android-core-6.3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.sentry/sentry-android-core/6.3.1/736d4091a5e63c0e4b5863f8a2b63801b95e525b/sentry-android-core-6.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
