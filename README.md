@@ -1,16 +1,25 @@
-# sentry_demo
+# Sentry & Crashlytics Demo
 
-A new Flutter project.
+## About this app:
+By using this application, you can unit test any function(). This application checks whether your provided function() is working or not. Based on your function's result, the app's handler function will give you some callbacks.
 
-## Getting Started
+  - Required callbacks are below-mentioned:
+    - Provide the function() that you want to test.
+    - What action do you want to perform if the function() works and gets completed successfully?
+    - What action do you want to perform if the function() caught a known exception?
+    - What action do you want to perform if the function() grabs an unknown error?
+    - What action do you want to perform if the function() finally gets finished, no matter what results it gets?
 
-This project is a starting point for a Flutter application.
+  - Additional but required callbacks are below-mentioned:
+    - Should our app send the crash report to Sentry's server or not?
+      - If true, the crash report will be available on Sentry's server.
+    - Should our app send the crash report to Crashlytics's server or not?
+      - If true, the crash report will be available on Crashlytics's server.
 
-A few resources to get you started if this is your first Flutter project:
+  - Optional user feedback functionality:
+    - To reduce our server-side load, Sentry natively provides a user feedback dashboard, where you can get all the full-fledged information about the user's info., their remakes & their installed app information.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+For Sentry's & Crashlytics's dashboard access, Kindly contact me.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview
+![alt text](https://i.postimg.cc/ZR2srmHs/Screenshot-2023-10-09-at-12-55-10-PM.png "img")
