@@ -22,4 +22,4 @@ By using this application, you can unit test any function(). This application ch
 For Sentry's & Crashlytics's dashboard access, Kindly contact me.
 
 ## Preview
-![alt text](https://i.postimg.cc/ZR2srmHs/Screenshot-2023-10-09-at-12-55-10-PM.png "img")
+![alt text](https://i.postimg.cc/BQrgNNxb/Screenshot-2023-10-09-at-1-12-21-PM.png "img")
